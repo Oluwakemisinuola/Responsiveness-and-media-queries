@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.left{
+    flex: 70%;
+}
+.right{
+    flex: 30%;
+}
+
